@@ -1,0 +1,22 @@
+.header {
+  padding: 0.5rem;
+  height: 4rem;
+}
+
+.header__brand {
+  display: flex;
+  height: 100%;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.header__brand img {
+  height: 100%;
+}
+
+.header__brand p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: var(--primary-color);
+}

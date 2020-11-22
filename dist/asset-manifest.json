@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a7e8520.chunk.css",
+    "main.js": "/static/js/main.ee179633.chunk.js",
+    "main.js.map": "/static/js/main.ee179633.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3865179a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3865179a.js.map",
+    "static/js/2.7d7036fb.chunk.js": "/static/js/2.7d7036fb.chunk.js",
+    "static/js/2.7d7036fb.chunk.js.map": "/static/js/2.7d7036fb.chunk.js.map",
+    "static/js/3.d6acda98.chunk.js": "/static/js/3.d6acda98.chunk.js",
+    "static/js/3.d6acda98.chunk.js.map": "/static/js/3.d6acda98.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4a7e8520.chunk.css.map": "/static/css/main.4a7e8520.chunk.css.map",
+    "static/js/2.7d7036fb.chunk.js.LICENSE.txt": "/static/js/2.7d7036fb.chunk.js.LICENSE.txt",
+    "static/media/Masket.1c07cdd0.svg": "/static/media/Masket.1c07cdd0.svg",
+    "static/media/undraw_empty_street_sfxm.e5d171a9.svg": "/static/media/undraw_empty_street_sfxm.e5d171a9.svg",
+    "static/media/undraw_medical_research_qg4d.0e959a89.svg": "/static/media/undraw_medical_research_qg4d.0e959a89.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3865179a.js",
+    "static/js/2.7d7036fb.chunk.js",
+    "static/css/main.4a7e8520.chunk.css",
+    "static/js/main.ee179633.chunk.js"
+  ]
+}

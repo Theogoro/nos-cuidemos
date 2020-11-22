@@ -1,0 +1,51 @@
+[class$="__content-wrapper"] {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto auto;
+}
+
+[class$="__content-wrapper"] [class$="__image"] {
+  grid-row: 1 / 2;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+[class$="__content-wrapper"] [class$="__image"] img {
+  width: 100%;
+}
+
+[class$="__content-wrapper"] [class$="__text"] h2 {
+  color: var(--primary-color);
+  line-height: 120%;
+  font-size: 2rem;
+  font-weight: bold;
+}
+[class$="__content-wrapper"] [class$="__text"] p {
+  color: var(--secondary-color);
+  line-height: 150%;
+  font-size: 1.3rem;
+}
+[class$="__content-wrapper"] [class$="__text"] span {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+@media (min-width: 767px) {
+  [class$="__content-wrapper"] {
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: auto;
+    gap: 2rem;
+    justify-content: center;
+  }
+  [class$="__content-wrapper"] [class$="__image"] {
+    grid-column: span 7;
+    grid-row: auto;
+  }
+  [class$="__content-wrapper"] [class$="__text"] {
+    grid-column: span 3;
+  }
+  /* Hide divisors */
+  hr {
+    display: none;
+  }
+}

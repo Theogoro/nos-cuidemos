@@ -1,0 +1,5 @@
+.footer-wrapper {
+  background-color: var(--dark-color);
+  color: white;
+  padding: 2rem;
+}
