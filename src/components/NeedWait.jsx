@@ -1,6 +1,5 @@
 import React from "react";
 import doctorImage from "../svgs/undraw_medical_research_qg4d.svg";
-import "./NeedWait.css";
 
 export default function NeedWait(props) {
   return (

@@ -1,6 +1,9 @@
 .header {
   padding: 0.5rem;
   height: 4rem;
+  position: sticky;
+  top: 0;
+  background-color: white;
 }
 
 .header__brand {

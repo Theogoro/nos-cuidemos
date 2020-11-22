@@ -1,6 +1,5 @@
 import React from "react";
 import image from "../svgs/undraw_empty_street_sfxm.svg";
-import "./Hero.css";
 
 export default function Hero(props) {
   return (
@@ -12,8 +11,9 @@ export default function Hero(props) {
         <div className="hero__text">
           <h2>En tiempos donde las calles estan vacias</h2>
           <p>
-            Es importante cuidanos y para salir aun mas fuertes. Por eso hoy
-            queremos darte consejos de como cuidarte y cuidanos entre todos.
+            Es importante <span>cuidanos y para salir aun mas fuertes</span>.
+            Por eso hoy queremos darte consejos de como cuidarte y cuidanos
+            entre todos.
           </p>
         </div>
       </div>

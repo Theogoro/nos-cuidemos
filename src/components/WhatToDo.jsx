@@ -12,7 +12,8 @@ export default function WhatToDo(props) {
           <h2>¿Que hacer con tanto tiempo en casa?</h2>
           <p>
             La cantidad de horas que pasaremos en nuestros hogares (solos o en
-            compañía) han abierto un inmenso abanico de posibilidades para
+            compañía){" "}
+            <span>han abierto un inmenso abanico de posibilidades</span> para
             disfrutar del tiempo libre: cultura, formación, cocina o deporte. Es
             importante usar este tiempo.
           </p>

@@ -3,3 +3,7 @@
   color: white;
   padding: 2rem;
 }
+
+.footer a {
+  color: var(--muted-color);
+}
